@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nanthana-boop
+- 👋 Hi, I’m @Nanthana Naka
 - 👀 I’m interested in software development and Ai.
 - 🌱 I’m currently learning Future AI learning and developing intelligent robots.
 
