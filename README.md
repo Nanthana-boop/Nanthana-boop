@@ -12,7 +12,8 @@
   </a>
   <a href="https://line.me/ti/p/1j7X4iE21X">
     <img src="https://img.shields.io/badge/line-green?style=for-the-badge&logo=line&logoColor=white" alt="line Badge"/>
-  </a>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=Nanthana-boop&style=flat-square&color=blue" alt=""/><br>
 </div><br>
 
 - 👀 I’m interested in software development and Ai.
@@ -41,6 +42,11 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Nanthana-boop-Nanthana-boop
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanthana-boop&theme=dark&background=000000)](https://git.io/streak-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthana-boop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
