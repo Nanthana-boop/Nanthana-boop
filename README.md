@@ -42,11 +42,17 @@
 
 ### :fire: My Stats :
 
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanthana-boop&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthana-boop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h2 style="color: #61dafb; margin-bottom: 20px;">GitHub Streak</h2>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Nanthana-boop&theme=dark&background=000000" alt="GitHub Streak Stats" style="border-radius: 10px; border: 2px solid #61dafb;" />
+  </a>
+  <br><br>
+  <h2 style="color: #61dafb; margin-bottom: 20px;">Top Languages</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthana-boop&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="border-radius: 10px; border: 2px solid #61dafb;" />
+  </a>
 </div>
+
+
 
