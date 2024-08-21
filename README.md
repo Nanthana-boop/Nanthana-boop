@@ -1,10 +1,11 @@
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h3bDk4MXludmJ3bmNpcW1peGR4aTZoM3NpMjQxa2t6c3NnOHJjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif" width="250"/>
-</div><br>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanthana
 ================================================================================================================================
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h3bDk4MXludmJ3bmNpcW1peGR4aTZoM3NpMjQxa2t6c3NnOHJjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif" width="250"/>
+</div><br>
 
 Software student
 ----------------
