@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Nanthana Naka
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👀 I’m interested in software development and Ai.
 - 🌱 I’m currently learning Future AI learning and developing intelligent robots.
 
