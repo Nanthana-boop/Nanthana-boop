@@ -13,7 +13,7 @@ Front-End Developer
 I am a Computer Engineering graduate with a strong interest in Web Development and Mobile App Development. Currently, I am working in Front-End Development
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [my resume]([http://drive.google.com/file/d/1euc4sKfV7jT44WDqwtVhuuwo4ebp_j1B/view?usp=drive_link](https://drive.google.com/file/d/1be2l9bp3Sy9kbDmfFeURfaj01JZgDlVI/view?usp=sharing))
+* 🖥️  See my portfolio at [my resume](https://drive.google.com/file/d/1be2l9bp3Sy9kbDmfFeURfaj01JZgDlVI/view?usp=sharing)
 * ✉️  You can contact me at [nanthananaka07@gmail.com](mailto:nanthananaka07@gmail.com)
 * 🧠  I'm learning Artificial Intelligence
 
