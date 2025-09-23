@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-Software student
+Front-End Developer
 ----------------
 
 I am a 4th-year student in Computer Engineering, interested in Web Development and Mobile App Development. I am currently working on a project related to AI and intelligent robots.
